@@ -1,3 +1,3 @@
 # multiplication
 
-This project contains my learning path to understanding springboot. It contains code from the ***Learn Microservices with Spring Boot** book by Moisés Macero García
+This project contains my learning path to understanding springboot. It contains code from the _Learn Microservices with Spring Boot_ book by Moisés Macero García
